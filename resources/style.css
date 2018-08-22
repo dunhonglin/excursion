@@ -8,6 +8,7 @@ h1 {
 p{
   color: Aquamarine;
   fon size: 16px;
+  text-align: center;
 
 }
 h2{
@@ -15,13 +16,26 @@ h2{
   font-weight: 300;
   font-size: 42px;
   color:white;
+  text-align: center;
 }
 #ex {
   font-family: verdana;
   font-size: :21px;
   color:gray;
+  text-align: center;
 }
 #exu {
   text-align: right;
   color:gray;
+}
+#back{
+  background-color: black;
+
+}
+
+.center {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
