@@ -1,41 +1,29 @@
-h1 {
-  font-family: verdana;
-  font-weight: normal;
-  font-size: 50px;
-  color: white;
-  text-align: center;
-}
-p{
-  color: Aquamarine;
-  fon size: 16px;
-  text-align: center;
-
-}
-h2{
-  font-family: verdana;
-  font-weight: 300;
-  font-size: 42px;
-  color:white;
-  text-align: center;
-}
-#ex {
-  font-family: verdana;
-  font-size: :21px;
-  color:gray;
-  text-align: center;
-}
-#exu {
-  text-align: right;
-  color:gray;
-}
-#back{
+body {
   background-color: black;
-
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 
-.center {
-  display: block;
-    margin-left: auto;
-    margin-right: auto;
+.cta {
+  color: aquamarine;
+  font-size: 16px;
+}
 
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
 }
